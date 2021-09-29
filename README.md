@@ -7,7 +7,7 @@ The user is prompted with multiple questions that makes a README, and once the u
 # Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Walkthrough-Video](#walkthroughvideo)
+- [Walkthrough-Video](#walkthrough-video)
 - [Questions](#questions)
 - [License](#license)
 # Installation
