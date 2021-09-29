@@ -22,8 +22,7 @@ The user is prompted with multiple questions that are required in a README, and 
 # License 
 - This application uses the MIT License.
 # Questions 
-- If you have any questions or feedback, feel free to contact me via email and I will get back to you.
-Contact Info
+If you have any questions or feedback, feel free to contact me via email and I will get back to you.
 - GitHub: [JeffBenak](https://github.com/jeffbenak)
 - Email: jeff.benak@yahoo.com
 
