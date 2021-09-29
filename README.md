@@ -19,7 +19,7 @@ The user is prompted with multiple questions that are required in a README, and 
 # Walkthrough-Video 
 - Here is a link to a walkthrough of the video:
 - https://drive.google.com/file/d/1dC-phpwdaTcWzwPheahHfIBLoWOJzCPD/view
-# Screenshots of a sample README created through the application:
+Below are screenshots of a sample README created through the application
 - ![Screenshot (75)](https://user-images.githubusercontent.com/87049684/135196760-a54302af-53ac-4a5e-ba05-2abf72e90aba.png)
 - ![Screenshot (76)](https://user-images.githubusercontent.com/87049684/135196750-a18b014e-814a-4bb5-b9b8-06ea0df4ec76.png)
 # License 
