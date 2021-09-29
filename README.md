@@ -3,7 +3,7 @@
 This project is a command line prompt that generates a README file depending on what was inputted into the command prompt. 
 The user is prompted with multiple questions that are required in a README, and once the user answers each prompt question, a README will be generated and organized based on what the user entered.
 # Licensing
-![badge](https://img.shields.io/badge/license-MIT-blue)(https://shields.io)
+![badge](https://img.shields.io/badge/license-MIT-blue)
 # Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
