@@ -1,11 +1,2 @@
-# 1
-## Description
-2
-## Installation
-3
-## Usage
-5
-## Contribution
-6
-## Instructions 
-5
+# README.md Generator with Node.js
+# You will be prompted to answer multiple questions that 
