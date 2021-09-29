@@ -48,6 +48,12 @@ const questions = [
         message: 'What is your email?',
         name: 'email',
     },
+    {
+        type: 'list',
+        message: 'Which license would you like to use for your application?(Use down and up arrows to choose)',
+        name: 'license',
+        choices: ['GNU-APGPLv3', 'GNU-GPLv3', 'GNU-LGPLv3', 'Mozilla-Public-License-2.0', 'Apache-License-2.0', 'MIT-License'],
+    },
     
 ];
 
