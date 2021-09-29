@@ -17,7 +17,8 @@ The user is prompted with multiple questions that are required in a README, and 
 - Run the command node index.js in the Command-Line Interface, and immediately you will be prompted with multiple questions for your README. 
 - Once you finish answering all of the questions, your README will be created, along with a table of contents for each section of the README.
 # Walkthrough-Video 
-- Here is a link to a walkthrough of the video: https://drive.google.com/file/d/1dC-phpwdaTcWzwPheahHfIBLoWOJzCPD/view
+- Here is a link to a walkthrough of the video:
+- https://drive.google.com/file/d/1dC-phpwdaTcWzwPheahHfIBLoWOJzCPD/view
 # License 
 - This application uses the MIT License.
 # Questions 
